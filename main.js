@@ -1,4 +1,4 @@
-// In this experimental branch I will add features to allw the game to be played ow/o opening the console.
+// In the branch "experimental" I will add features to allw the game to be played ow/o opening the console.
 console.log("Let's play Rock, Paper, Scissors");
 console.log("Please choose r, p or s");
 /* The variables below have global scope because they are needed in multiple functions. The variables myPick and halsPick will hold our respective picks of r, p or s. the gamesWon/Tied/Lost variables will keep a running count of the user's wins, ties and losses.*/
